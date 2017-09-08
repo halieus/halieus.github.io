@@ -1,0 +1,9 @@
+# Site settings
+title: Halieus
+email: your-email@domain.com
+description: Halieus
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://halieus.github.io" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
